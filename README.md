@@ -1,3 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# Base layout template with Gulp, SCSS and Stylelint.
 
-    [DEMO](https://MateuszSlezak.github.io/Bang-Olufsen-landing/)
+ [DEMO](https://MateuszSlezak.github.io/Bang-Olufsen-landing/)
+
+   
